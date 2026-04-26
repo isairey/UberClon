@@ -72,8 +72,8 @@ ride-app/
 
 1. Clonar repositorio:
 ```bash
-git clone https://github.com/tuusuario/ride-app.git
-cd ride-app
+git clone https://github.com/isairey/UberClon.git
+cd UberClon
 ```
 Instalar dependencias:
 ```
